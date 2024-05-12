@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Auto Refresh 5 Min",
-    "description": "This extension will automatically refresh the page every 5 minutes.",
+    "name": "Auto Refresh 1 Min",
+    "description": "This extension will automatically refresh the page every 1 minute.",
     "version": "1.2",
     "permissions": [
         "activeTab",
@@ -15,7 +15,7 @@
     },
     "action": {
         "default_icon": "icon128.png",
-        "default_title": "Auto Refresh 5 Min"
+        "default_title": "Auto Refresh 1 Min"
     }
 }
 
